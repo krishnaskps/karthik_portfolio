@@ -18,7 +18,7 @@ export const portfolioData = {
     profileImage: "/profile.jpg",
     links: {
       github: "https://github.com/Krishna1-karthik",
-      portfolio: "https://krishna1-karthik.github.io/Personal-website/",
+      portfolio: "https://karthik-portfolio-gamma-ten.vercel.app/",
       linkedin: "https://www.linkedin.com/in/karthikeyan-keppanan/", // standard placeholder linked to user's profile
       emailMailto: "mailto:karthiksn1304@gmail.com",
       phoneTel: "tel:+919048937226"
